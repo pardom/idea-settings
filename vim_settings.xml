@@ -8,28 +8,27 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548434683894">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="13" column="59" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548436507192">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548348003581">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548437070123">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/build.gradle.kts" timestamp="1548345329232">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Component.kt" timestamp="1548360387415">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Component.kt" timestamp="1548436735752">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/settings.gradle.kts" timestamp="1548344482384">
         <mark key="[" line="0" column="0" />
@@ -37,44 +36,50 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/TaggedSource.kt" timestamp="1548436957073">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHRvU3RyaW5nKCkgPSBDT1JFCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uU3RkTGliKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5SeEphdmEpCg==</text>
+        <text encoding="base64">CmZ1biA8U291cmNlcywgU2lua3M+IG1haW4oc291cmNlczogU291cmNlcyk6IFNpbmtzIHsKICAgIFRPRE8oKQp9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5SeEphdmEpCg==</text>
+        <text encoding="base64">CmZ1biA8U291cmNlcywgU2lua3M+IG1haW4oc291cmNlczogU291cmNlcyk6IFNpbmtzIHsKICAgIFRPRE8oKQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHRvU3RyaW5nKCkgPSBKVU5JVDUK</text>
+        <text encoding="base64">CmZ1biBydW4obWFpbkZuOiBNYWluRm4pIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZnVuIDxTb3VyY2VzLCBTaW5rcz4gbWFpbihzb3VyY2VzOiBTb3VyY2VzKTogU2lua3MgewogICAgVE9ETygpCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnVuIDxTb3VyY2VzLCBTaW5rcz4gcnVuKG1haW5GbjogTWFpbkZuPFNvdXJjZXMsIFNpbmtzPikgewoKfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gdG9TdHJpbmcoKSA9IENPUkUK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHRvU3RyaW5nKCkgPSBKVU5JVDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHRvU3RyaW5nKCkgPSBDT1JFCg==</text>
+        <text encoding="base64">ICAgIGZ1biBtYWluKHNvdXJjZXM6IE1hcDxTaW5rcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkYXRhIGNsYXNzIEtleSgKICAgICAgICAgICAgdmFsIGlkOiBTdHJpbmcsCiAgICAgICAgICAgIHZhbCBjbHM6IENsYXNzPCo+CiAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYW5uZWxzLkNoYW5uZWwK</text>
       </register>
       <register name="-" type="4">
-        <text>junit5</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
     <search>
