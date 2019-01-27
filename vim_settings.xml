@@ -14,10 +14,11 @@
         <mark key="." line="12" column="48" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548546620215">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548553121471">
+        <mark key="[" line="10" column="86" />
+        <mark key="]" line="10" column="88" />
+        <mark key="." line="10" column="88" />
+        <mark key="^" line="10" column="88" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/build.gradle.kts" timestamp="1548345329232">
         <mark key="[" line="9" column="0" />
@@ -54,37 +55,37 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uU3RkTGliKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcjxTb3VyY2UsIFNpbms+ID0gKHN0cmVhbTogU291cmNlKSAtPiBTaW5rCgoKdHlwZWFsaWFzIE1haW4gPSAoc291cmNlczogU291cmNlKTogU2luawo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcjxTb3VyY2UsIFNpbms+ID0gKHN0cmVhbTogU291cmNlKSAtPiBTaW5rCgoKdHlwZWFsaWFzIE1haW4gPSAoc291cmNlczogU291cmNlKTogU2luawo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcnM8U291cmNlLCBTaW5rPiA9IFVuaXQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>Sources</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcjxTb3VyY2UsIFNpbms+ID0gKHN0cmVhbTogU291cmNlKSAtPiBTaW5rCgoKdHlwZWFsaWFzIE1haW4gPSAoc291cmNlczogU291cmNlKTogU2luawo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcnMgPSBTdHJpbmcK</text>
+        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcnM8U291cmNlLCBTaW5rPiA9IFVuaXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIHJ1bihtYWluRm46IE1haW5GbikgewogICAgdmFsIHNpbmtzID0gbWFpbkZuKGVtcHR5TGlzdCgpKQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIFNvdXJjZXM8PgoK</text>
+        <text encoding="base64">dHlwZWFsaWFzIERyaXZlcnMgPSBTdHJpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB0eXAK</text>
+        <text encoding="base64">ZnVuIHJ1bihtYWluRm46IE1haW5GbikgewogICAgdmFsIHNpbmtzID0gbWFpbkZuKGVtcHR5TGlzdCgpKQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIE1haW5GbiA9IChMaXN0PERyaXZlcjxBbnksIEFueT4+KSAtPiBEcml2ZXI8QW55LCBBbnk+Cg==</text>
+        <text encoding="base64">dHlwZWFsaWFzIFNvdXJjZXM8PgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB0eXAK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Sources</text>
       </register>
     </registers>
     <search>
