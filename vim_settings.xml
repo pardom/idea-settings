@@ -20,11 +20,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548716965467">
-        <mark key="[" line="24" column="62" />
-        <mark key="]" line="24" column="63" />
-        <mark key="." line="24" column="63" />
-        <mark key="^" line="24" column="63" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548718648764">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/settings.gradle.kts" timestamp="1548344482384">
         <mark key="[" line="0" column="0" />
@@ -38,12 +38,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548716554049">
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548718390810">
         <mark key="'" line="12" column="44" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="23" column="46" />
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548709284969">
         <mark key="[" line="11" column="39" />
@@ -94,26 +94,26 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>artifact</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwgbGVuZ3RoOiBJbnQKICAgICAgICAgICAgZ2V0KCkgPSBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBpbml0aWFsaXplciBvZiBjcmVhdGVkIHByb3BlcnRpZXMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgoKICAgICAgICBvdmVycmlkZSBmdW4gZ2V0KGluZGV4OiBJbnQpOiBDaGFyIHsKICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gc3ViU2VxdWVuY2Uoc3RhcnRJbmRleDogSW50LCBlbmRJbmRleDogSW50KTogQ2hhclNlcXVlbmNlIHsKICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBsZW5ndGg6IEludAogICAgICAgIGdldCgpID0gdG9TdHJpbmcoKS5sZW5ndGgKCiAgICBvdmVycmlkZSBmdW4gZ2V0KGluZGV4OiBJbnQpOiBDaGFyIHsKICAgICAgICByZXR1cm4gdG9TdHJpbmcoKVtpbmRleF0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gc3ViU2VxdWVuY2Uoc3RhcnRJbmRleDogSW50LCBlbmRJbmRleDogSW50KTogQ2hhclNlcXVlbmNlIHsKICAgICAgICByZXR1cm4gdG9TdHJpbmcoKS5zdWJTZXF1ZW5jZShzdGFydEluZGV4KQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBASnZtU3RhdGljCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -122,7 +122,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>artifact</text>
+        <text>TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.</text>
       </register>
     </registers>
     <search>
