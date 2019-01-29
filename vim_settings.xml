@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548704051729">
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548720445278">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="26" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Group.kt" timestamp="1548716026882">
         <mark key="[" line="2" column="0" />
@@ -20,11 +19,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548719999679">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="25" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548720579006">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/settings.gradle.kts" timestamp="1548344482384">
         <mark key="[" line="0" column="0" />
@@ -38,12 +37,8 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548719915701">
-        <mark key="'" line="14" column="44" />
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="24" column="7" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548721121349">
+        <mark key="'" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548709284969">
         <mark key="[" line="11" column="39" />
@@ -89,43 +84,41 @@
       <jump line="14" column="4" filename="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>ARTIFACT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIEpES183ID0gRGVwZW5kZW5jeSh0aGlzLCAia290bGluLXN0ZGxpYi1qZGs3IikKICAgICAgICAgICAgdmFsIEpES184ID0gRGVwZW5kZW5jeSh0aGlzLCAia290bGluLXN0ZGxpYi1qZGs4IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>group</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIEpES183ID0gRGVwZW5kZW5jeSh0aGlzLCAia290bGluLXN0ZGxpYi1qZGs3IikKICAgICAgICAgICAgdmFsIEpES184ID0gRGVwZW5kZW5jeSh0aGlzLCAia290bGluLXN0ZGxpYi1qZGs4IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBvdmVycmlkZSBmdW4gdG9TdHJpbmcoKTogU3RyaW5nIHsKICAgICAgICAgICAgcmV0dXJuIGRlZmF1bHRBcnRpZmFjdD8ubGV0IHsKICAgICAgICAgICAgICAgIERlcGVuZGVuY3kodGhpcywgaXQpLnRvU3RyaW5nKCkKICAgICAgICAgICAgfSA/OiBpZAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>: CharSequence {
-            TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gZ2V0KGluZGV4OiBJbnQpOiBDaGFyIHsKICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gc3ViU2VxdWVuY2Uoc3RhcnRJbmRleDogSW50LCBlbmRJbmRleDogSW50KTogQ2hhclNlcXVlbmNlIHsKICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewoKICAgICAgICBvcGVyYXRvciBmdW4gaW52b2tlKGdyb3VwOiBHcm91cCwgYXJ0aWZhY3RJZDogU3RyaW5nLCB2ZXJzaW9uOiBTdHJpbmcgPSBncm91cC5pZCkgPQogICAgICAgICAgICAgICAgRGVwZW5kZW5jeShncm91cCwgQXJ0aWZhY3QoYXJ0aWZhY3RJZCwgdmVyc2lvbikpCgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>Artifact</text>
       </register>
     </registers>
     <search>
