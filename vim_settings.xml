@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.6/2c70510784f92eba5ab6a41e47e91d476d1ebc0b/rxjava-2.2.6-sources.jar!/io/reactivex/subjects/ReplaySubject.java" timestamp="1548828206529" />
       <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" timestamp="1548875637336">
         <mark key="'" line="17" column="7" />
         <mark key="[" line="17" column="0" />
@@ -11,27 +10,17 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="45" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548875680041">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548875868357">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Group.kt" timestamp="1548716026882">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/types.kt" timestamp="1548875676939">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="79" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/build.gradle.kts" timestamp="1548345329232">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/types.kt" timestamp="1548876450958">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548724016170">
         <mark key="'" line="2" column="16" />
@@ -40,51 +29,31 @@
         <mark key="^" line="28" column="41" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/settings.gradle.kts" timestamp="1548344482384">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskList.kt" timestamp="1548876738611">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Artifact.kt" timestamp="1548716062035">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListView.kt" timestamp="1548876779362">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548864453991">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="64" />
-        <mark key="." line="27" column="64" />
-        <mark key="^" line="27" column="64" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListIntent.kt" timestamp="1548876716100">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548864470571">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/jars-3/d7f9c77b3195f87b7072d8ad98e4d3b0/buildSrc.jar!/kvmi/Dependencies.class" timestamp="1548634018791">
-        <mark key="'" line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/build.gradle.kts" timestamp="1548875617048">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/WithCharSequence.kt" timestamp="1548723445961">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Component.kt" timestamp="1548436735752">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/build.gradle.kts" timestamp="1548878051046">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Driver.kt" timestamp="1548546210311">
         <mark key="[" line="4" column="14" />
@@ -98,8 +67,85 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1548709619504">
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskModel.kt" timestamp="1548878276538">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="107" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/Task.kt" timestamp="1548878426265">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/build.gradle.kts" timestamp="1548876085144">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListModel.kt" timestamp="1548876759444">
+        <mark key="'" line="2" column="20" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Group.kt" timestamp="1548716026882">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskView.kt" timestamp="1548876765749">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskView.kt" timestamp="1548878277448">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="107" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/settings.gradle.kts" timestamp="1548876036396">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Artifact.kt" timestamp="1548716062035">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548878001549">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="64" />
+        <mark key="^" line="8" column="64" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548876243600">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskIntent.kt" timestamp="1548878242315">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/WithCharSequence.kt" timestamp="1548723445961">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -118,43 +164,47 @@
       <jump line="40" column="0" filename="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" />
       <jump line="18" column="8" filename="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" />
       <jump line="17" column="7" filename="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" />
+      <jump line="5" column="14" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListIntent.kt" />
+      <jump line="5" column="7" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskList.kt" />
+      <jump line="2" column="20" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListModel.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskView.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIFByb2dyYW0gPSAoT2JzZXJ2YWJsZTwqPikgLT4gT2JzZXJ2YWJsZTwqPgoKdHlwZWFsaWFzIENvbXBvbmVudCA9IFByb2dyYW0KCnR5cGVhbGlhcyBEcml2ZXIgPSBQcm9ncmFtCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIFJlbW92ZSh2YWwgdGFzazogVGFzaykgOiBBY3Rpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Remove</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIFByb2dyYW0gPSAoT2JzZXJ2YWJsZTwqPikgLT4gT2JzZXJ2YWJsZTwqPgoKdHlwZWFsaWFzIENvbXBvbmVudCA9IFByb2dyYW0KCnR5cGVhbGlhcyBEcml2ZXIgPSBQcm9ncmFtCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc291cmNlcy5vZlR5cGUoVGFza01vZGVsLlN0YXRlOjpjbGFzcy5qYXZhKQogICAgICAgICAgICAubWFwIHsKCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gRXZlcnl0aGluZyBkZXJpdmVzIGZyb20gUHJvZ3JhbQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5SeFJlbGF5KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgRE9NU291cmNlCmNsYXNzIEh0dHBTb3VyY2UKCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgTW9kZWwoCiAgICAgICAgdmFsIHRpdGxlOiBPYnNlcnZhYmxlPFN0cmluZz4sCiAgICAgICAgdmFsIGNvbXBsZXRlZDogT2JzZXJ2YWJsZTxCb29sZWFuPiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZWRpdGluZzogT2JzZXJ2YWJsZTxCb29sZWFuPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCkgPSBzdXBlci5kZWZhdWx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb28gPSBSZWxheQo=</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgU3RhdGUoCiAgICAgICAgCiAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIHJ1bihwcm9ncmFtOiBQcm9ncmFtLCB2YXJhcmcgZHJpdmVyczogRHJpdmVyKSB7Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgU3RhdGUoCiAgICAgICAgdmFsIHRpdGxlOiBTdHJpbmcsCiAgICAgICAgdmFsIGNvbXBsZXRlZDogQm9vbGVhbiwKICAgICAgICB2YWwgZWRpdGluZzogQm9vbGVhbgogICAgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Remove</text>
       </register>
     </registers>
     <search>
@@ -170,6 +220,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
