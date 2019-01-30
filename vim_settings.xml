@@ -4,12 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.6/2c70510784f92eba5ab6a41e47e91d476d1ebc0b/rxjava-2.2.6-sources.jar!/io/reactivex/subjects/ReplaySubject.java" timestamp="1548828206529" />
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" timestamp="1548832471299">
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" timestamp="1548864816014">
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="23" column="10" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="45" column="42" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548720445278">
         <mark key="[" line="5" column="0" />
@@ -52,18 +52,18 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548827588000">
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependencies.kt" timestamp="1548864453991">
         <mark key="'" line="5" column="20" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+        <mark key="^" line="27" column="64" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548827609865">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="44" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548864470571">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/jars-3/d7f9c77b3195f87b7072d8ad98e4d3b0/buildSrc.jar!/kvmi/Dependencies.class" timestamp="1548634018791">
         <mark key="'" line="57" column="0" />
@@ -114,40 +114,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nRHJpdmVyLAo=</text>
+        <text encoding="base64">Y2xhc3MgRE9NU291cmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRE9NU291cmNlCmNsYXNzIEh0dHBTb3VyY2UKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRE9NU291cmNlCmNsYXNzIEh0dHBTb3VyY2UKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbFN0b3JhZ2VEcml2ZXIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCkgPSBzdXBlci5kZWZhdWx0Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHZhbCBmb28gPSBSZWxheQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIFdpdGhTdGF0ZShwcm9ncmFtOiBQcm9ncmFtKTogUHJvZ3JhbSB7CgogICAgY2xhc3MgU3RhdGVTb3VyY2UKCiAgICBvdmVycmlkZSBmdW4gaW52b2tlKHNvdXJjZXM6IE9ic2VydmFibGU8Kj4pOiBPYnNlcnZhYmxlPCo+IHsgLi4uIH0KCn0K</text>
+        <text encoding="base64">ZnVuIHJ1bihwcm9ncmFtOiBQcm9ncmFtLCB2YXJhcmcgZHJpdmVyczogRHJpdmVyKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbFN0b3JhZ2VEcml2ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFN0YXRlU2luawo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>loggingDriver</text>
+        <text>M</text>
       </register>
     </registers>
     <search>
