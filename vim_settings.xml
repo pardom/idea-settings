@@ -16,11 +16,11 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/types.kt" timestamp="1548876450958">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/types.kt" timestamp="1548890458465">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548724016170">
         <mark key="'" line="2" column="16" />
@@ -67,17 +67,17 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskModel.kt" timestamp="1548878276538">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="107" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskModel.kt" timestamp="1548890343601">
+        <mark key="[" line="8" column="83" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/Task.kt" timestamp="1548881998300">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/Task.kt" timestamp="1548890434572">
+        <mark key="[" line="25" column="62" />
+        <mark key="]" line="25" column="62" />
+        <mark key="." line="25" column="64" />
+        <mark key="^" line="25" column="46" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/build.gradle.kts" timestamp="1548883018248">
         <mark key="[" line="6" column="53" />
@@ -105,10 +105,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskView.kt" timestamp="1548878277448">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="107" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskView.kt" timestamp="1548890357455">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/settings.gradle.kts" timestamp="1548882607853">
         <mark key="[" line="1" column="0" />
@@ -134,11 +135,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskIntent.kt" timestamp="1548878242315">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskIntent.kt" timestamp="1548890523231">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/android/src/main/kotlin/todos/component/task/AndroidTaskView.kt" timestamp="1548883161200">
         <mark key="[" line="5" column="29" />
@@ -190,37 +191,37 @@
         <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwgZGVmYXVsdCA9IERlcGVuZGVuY3kodGhpcywgQXJ0aWZhY3QoImFwaSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgQU5EUk9JRCA9IERlcGVuZGVuY3kodGhpcywgQXJ0aWZhY3QoImRvbWljOmFuZHJvaWQiKSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnRzID0gc291cmNlcy5vZlR5cGUoVGFza1ZpZXc6OmNsYXNzLmphdmEpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnRzID0gc291cmNlcy5vZlR5cGUoVGFza1ZpZXc6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3BlbiB2YWwgZGVmYXVsdDoga3ZtaS5EZXBlbmRlbmN5IC8qIGNvbXBpbGVkIGNvZGUgKi8K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnRzID0gc291cmNlcy5vZlR5cGUoVGFza1ZpZXc6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0iKS52ZXJzaW9uKCIxLjMuMTEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBBbmRyb2lkIDogR3JvdXAoIiIsICIiKSB7CgogICAgICAgIG9iamVjdCBUb29scyA6IEdyb3VwKCJjb20uYW5kcm9pZC50b29scyIsICIiKSB7CgogICAgICAgICAgICBvYmplY3QgQnVpbGQgOiBHcm91cCgiJFRvb2xzLmJ1aWxkIiwgIiIpIHsKCiAgICAgICAgICAgICAgICBvYmplY3QgR3JhZGxlIDogR3JvdXAoQnVpbGQpIHsKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSB2YWwgZGVmYXVsdDogRGVwZW5kZW5jeSA9IERlcGVuZGVuY3kodGhpcywgQXJ0aWZhY3QoImdyYWRsZSIsICIzLjMuMCIpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGgoRGVwZW5kZW5jaWVzLkFuZHJvaWQuVG9vbHMuQnVpbGQuR3JhZGxlKQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBpbnZva2Uoc291cmNlczogT2JzZXJ2YWJsZTwqPik6IE9ic2VydmFibGU8Kj4gewogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0iKS52ZXJzaW9uKCIxLjMuMTEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGgoRGVwZW5kZW5jaWVzLkFuZHJvaWQuVG9vbHMuQnVpbGQuR3JhZGxlKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgQU5EUk9JRCA9IERlcGVuZGVuY3kodGhpcywgQXJ0aWZhY3QoImRvbWljOmFuZHJvaWQiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmluY2x1ZGUoIjpzYW1wbGVzOnRvZG9zOmNvcmUiKQppbmNsdWRlKCI6c2FtcGxlczp0b2RvczphbmRyb2lkIikK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3BlbiB2YWwgZGVmYXVsdDoga3ZtaS5EZXBlbmRlbmN5IC8qIGNvbXBpbGVkIGNvZGUgKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Source</text>
       </register>
     </registers>
     <search>
