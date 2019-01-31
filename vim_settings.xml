@@ -49,10 +49,10 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/build.gradle.kts" timestamp="1548884993737">
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/build.gradle.kts" timestamp="1548893408987">
         <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Driver.kt" timestamp="1548546210311">
@@ -73,11 +73,12 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/Task.kt" timestamp="1548890434572">
-        <mark key="[" line="25" column="62" />
-        <mark key="]" line="25" column="62" />
-        <mark key="." line="25" column="64" />
-        <mark key="^" line="25" column="46" />
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/Task.kt" timestamp="1548893432625">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/build.gradle.kts" timestamp="1548883018248">
         <mark key="[" line="6" column="53" />
@@ -164,6 +165,15 @@
         <mark key="^" line="33" column="5" />
         <mark key="." line="33" column="5" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskList.kt" timestamp="1548892136637">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+      </file>
+      <file name="/fragment.java" timestamp="1548892095649">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="57" column="0" filename="$USER_HOME$/.gradle/caches/jars-3/d7f9c77b3195f87b7072d8ad98e4d3b0/buildSrc.jar!/kvmi/Dependencies.class" />
@@ -185,43 +195,44 @@
       <jump line="5" column="7" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskList.kt" />
       <jump line="2" column="20" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListModel.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskView.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/Task.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwgZGVmYXVsdCA9IERlcGVuZGVuY3kodGhpcywgQXJ0aWZhY3QoImFwaSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIENhbmNlbEVkaXQodmFsIHRhc2s6IFRhc2spIDogQWN0aW9uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnRzID0gc291cmNlcy5vZlR5cGUoVGFza1ZpZXc6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aW9uczogT2JzZXJ2YWJsZTxBY3Rpb24+CiAgICAgICAgZnVuIHJlbmRlcihzdGF0ZTogT2JzZXJ2YWJsZTxTdGF0ZT4pOiBEaXNwb3NhYmxlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnRzID0gc291cmNlcy5vZlR5cGUoVGFza1ZpZXc6OmNsYXNzLmphdmEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Any</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnRzID0gc291cmNlcy5vZlR5cGUoVGFza1ZpZXc6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZG9tQ2hhYm5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIEFkZCh2YWwgdGl0bGU6IFN0cmluZykgOiBBY3Rpb24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGl0bGU6IFN0cmluZywKICAgICAgICB2YWwgY29tcGxldGVkOiBCb29sZWFuLAogICAgICAgIHZhbCBlZGl0aW5nOiBCb29sZWFuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBpbnZva2Uoc291cmNlczogT2JzZXJ2YWJsZTwqPik6IE9ic2VydmFibGU8Kj4gewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIEFkZCh2YWwgdGl0bGU6IFN0cmluZykgOiBBY3Rpb24oKQogICAgICAgIGRhdGEgY2xhc3MgUmVtb3ZlKHZhbCB0YXNrOiBUYXNrKSA6IEFjdGlvbigpCiAgICAgICAgZGF0YSBjbGFzcyBUb2dnbGVDb21wbGV0ZWQodmFsIHRhc2s6IFRhc2spIDogQWN0aW9uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBpbnZva2Uoc291cmNlczogT2JzZXJ2YWJsZTwqPik6IE9ic2VydmFibGU8Kj4gewogICAgICAgIHZhbCBhY3Rpb25zID0gVGFza0xpc3RJbnRlbnQoc291cmNlcykKICAgICAgICB2YWwgc3RhdGVzID0gVGFza0xpc3RNb2RlbChhY3Rpb25zKQogICAgICAgIHZhbCB2aWV3cyA9IFRhc2tMaXN0VmlldyhzdGF0ZXMpCiAgICAgICAgcmV0dXJuIE9ic2VydmFibGUubWVyZ2UoYWN0aW9ucywgc3RhdGVzLCB2aWV3cykKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgQU5EUk9JRCA9IERlcGVuZGVuY3kodGhpcywgQXJ0aWZhY3QoImRvbWljOmFuZHJvaWQiKSkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgb2JqZWN0IEludGVudCA6IFByb2dyYW08QW55LCBBY3Rpb24+IHsKICAgICAgICBvdmVycmlkZSBmdW4gaW52b2tlKHNvdXJjZXM6IE9ic2VydmFibGU8QW55Pik6IE9ic2VydmFibGU8QWN0aW9uPiB7CiAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIAogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3BlbiB2YWwgZGVmYXVsdDoga3ZtaS5EZXBlbmRlbmN5IC8qIGNvbXBpbGVkIGNvZGUgKi8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1vZGVsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Source</text>
+        <text>Any</text>
       </register>
     </registers>
     <search>
