@@ -148,6 +148,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-mvi-compiler/src/main/java/com/instacart/client/mvi/processor/ICMviEventClassGenerator.kt" timestamp="1549046084973">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+      </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/android/src/main/kotlin/todos/component/task/AndroidTaskView.kt" timestamp="1548883161200">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="28" />
@@ -213,8 +218,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLm1lcmdlKAogICAgICAgICAgICAgCiAgICAgICAgKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLm1lcmdlKAogICAgICAgICAgICAgCiAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
@@ -241,7 +246,7 @@
         <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>View</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
