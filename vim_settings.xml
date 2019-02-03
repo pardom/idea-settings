@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterView.kt" timestamp="1549170466687">
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterView.kt" timestamp="1549217622703">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -60,11 +60,11 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1549216790337">
+      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1549217120428">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListIntent.kt" timestamp="1548876716100">
         <mark key="'" line="5" column="14" />
@@ -128,11 +128,17 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/build.gradle.kts" timestamp="1549216678699">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/build.gradle.kts" timestamp="1549217208085">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/res/layout/counter_view.xml" timestamp="1549217543623">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskView.kt" timestamp="1548890357455">
         <mark key="[" line="8" column="14" />
@@ -158,6 +164,12 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/kotlin/counter/MainActivity.kt" timestamp="1549217286745">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/Module.md" timestamp="1549157496712">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
@@ -176,11 +188,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/AndroidManifest.xml" timestamp="1549170023257">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="23" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/AndroidManifest.xml" timestamp="1549217213752">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
         <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1549167256613">
         <mark key="[" line="19" column="0" />
@@ -206,6 +218,12 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/kotlin/counter/component/CounterView.kt" timestamp="1549217449960">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="53" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/TaggedSource.kt" timestamp="1548436957073">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -218,7 +236,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549157575712">
+      <file name="/Dummy.txt" timestamp="1549217501103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListModel.kt" timestamp="1548876759444">
@@ -279,7 +297,7 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1549158101321">
+      <file name="/fragment.java" timestamp="1549217247972">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -318,40 +336,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW5jbHVkZSgiOnNhbXBsZXM6Y291bnRlcjpkZXNrdG9wIikK</text>
+        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2luY3JlbWVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzKCJDb252ZXJ0U2Vjb25kYXJ5Q29uc3RydWN0b3JUb1ByaW1hcnkiKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwuaW1wbGRlcC5jb20uYW1hem9uYXdzLlByZWRlZmluZWRDbGllbnRDb25maWd1cmF0aW9ucy5kZWZhdWx0Q29uZmlnCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtvdGxpbigiYW5kcm9pZCIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJuby50b3JuYWRvOnRvcm5hZG9meDoxLjcuMTgiKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyID0gImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewogICAgICAgIGdldEJ5TmFtZSgicmVsZWFzZSIpIHsKICAgICAgICAgICAgaXNNaW5pZnlFbmFibGVkID0gZmFsc2UKICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyhnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCJwcm9ndWFyZC1hbmRyb2lkLnR4dCIpLCAicHJvZ3VhcmQtcnVsZXMucHJvIikKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YW5kcm9pZCB7CiAgICAKfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJuby50b3JuYWRvOnRvcm5hZG9meDoxLjcuMTgiKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">dGFza3MgewogICAgZ2V0dGluZyhLb3RsaW5Kdm1Db21waWxlOjpjbGFzcykgewogICAgICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgICAgICBqdm1UYXJnZXQgPSAiMS44IgogICAgICAgIH0KICAgIH0KfQoK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS5kc2wuS290bGluSnZtQ29tcGlsZQo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>n</text>
       </register>
     </registers>
     <search>
