@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterView.kt" timestamp="1549217622703">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterView.kt" timestamp="1549218537189">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/build.gradle" timestamp="1549157175209">
@@ -339,34 +339,34 @@
         <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2luY3JlbWVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJDb252ZXJ0U2Vjb25kYXJ5Q29uc3RydWN0b3JUb1ByaW1hcnkiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG9meC5hY3Rpb24KaW1wb3J0IHRvcm5hZG9meC5idXR0b24KaW1wb3J0IHRvcm5hZG9meC5sYWJlbAppbXBvcnQgdG9ybmFkb2Z4LnZib3gK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG9meC5hY3Rpb24KaW1wb3J0IHRvcm5hZG9meC5idXR0b24KaW1wb3J0IHRvcm5hZG9meC5sYWJlbAppbXBvcnQgdG9ybmFkb2Z4LnZib3gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHkK</text>
+        <text encoding="base64">QFN1cHByZXNzKCJDb252ZXJ0U2Vjb25kYXJ5Q29uc3RydWN0b3JUb1ByaW1hcnkiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyID0gImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewogICAgICAgIGdldEJ5TmFtZSgicmVsZWFzZSIpIHsKICAgICAgICAgICAgaXNNaW5pZnlFbmFibGVkID0gZmFsc2UKICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyhnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCJwcm9ndWFyZC1hbmRyb2lkLnR4dCIpLCAicHJvZ3VhcmQtcnVsZXMucHJvIikKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyID0gImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJuby50b3JuYWRvOnRvcm5hZG9meDoxLjcuMTgiKQo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewogICAgICAgIGdldEJ5TmFtZSgicmVsZWFzZSIpIHsKICAgICAgICAgICAgaXNNaW5pZnlFbmFibGVkID0gZmFsc2UKICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyhnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCJwcm9ndWFyZC1hbmRyb2lkLnR4dCIpLCAicHJvZ3VhcmQtcnVsZXMucHJvIikKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFza3MgewogICAgZ2V0dGluZyhLb3RsaW5Kdm1Db21waWxlOjpjbGFzcykgewogICAgICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgICAgICBqdm1UYXJnZXQgPSAiMS44IgogICAgICAgIH0KICAgIH0KfQoK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJuby50b3JuYWRvOnRvcm5hZG9meDoxLjcuMTgiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFza3MgewogICAgZ2V0dGluZyhLb3RsaW5Kdm1Db21waWxlOjpjbGFzcykgewogICAgICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgICAgICBqdm1UYXJnZXQgPSAiMS44IgogICAgICAgIH0KICAgIH0KfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS5kc2wuS290bGluSnZtQ29tcGlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS5kc2wuS290bGluSnZtQ29tcGlsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
