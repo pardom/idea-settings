@@ -15,11 +15,32 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="65" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" timestamp="1548875637336">
+        <mark key="'" line="17" column="7" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="45" column="42" />
+      </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/types.kt" timestamp="1548890458465">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="35" />
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548895142276">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskList.kt" timestamp="1548876738611">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListView.kt" timestamp="1548876779362">
         <mark key="[" line="5" column="11" />
@@ -39,11 +60,18 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1549169775449">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1549216790337">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListIntent.kt" timestamp="1548876716100">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/build.gradle.kts" timestamp="1548896710783">
         <mark key="[" line="7" column="0" />
@@ -57,7 +85,6 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.tornado/tornadofx/1.7.18/e1f697af9c6c1b9519a452f00c55a32c22f8647/tornadofx-1.7.18-sources.jar!/tornadofx/App.kt" timestamp="1549155165924" />
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/Counter.kt" timestamp="1549168901020">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -101,11 +128,11 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/build.gradle.kts" timestamp="1549170011226">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/build.gradle.kts" timestamp="1549216678699">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="9" column="23" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskView.kt" timestamp="1548890357455">
         <mark key="[" line="8" column="14" />
@@ -119,11 +146,11 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1549169842091">
+      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1549216461673">
         <mark key="[" line="6" column="54" />
         <mark key="]" line="6" column="54" />
         <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="54" />
+        <mark key="^" line="6" column="55" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/android/src/main/kotlin/todos/component/task/AndroidTaskView.kt" timestamp="1548883161200">
         <mark key="[" line="5" column="29" />
@@ -173,26 +200,46 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/AndroidManifest.xml" timestamp="1549216762065">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/TaggedSource.kt" timestamp="1548436957073">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/build.gradle.kts" timestamp="1549151792312">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="55" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/build.gradle.kts" timestamp="1549216314460">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549157575712">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListModel.kt" timestamp="1548876759444">
+        <mark key="'" line="2" column="20" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Group.kt" timestamp="1548716026882">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="15" column="1" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskView.kt" timestamp="1548876765749">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/src/main/kotlin/counter/Counter.kt" timestamp="1549164632459">
         <mark key="'" line="30" column="63" />
@@ -212,6 +259,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="5" column="26" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/WithCharSequence.kt" timestamp="1548723445961">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/android/build.gradle.kts" timestamp="1548885066299">
         <mark key="[" line="33" column="4" />
@@ -273,31 +327,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCByZW5kZXI6IFJlbmRlcjxSZW5kZXJNb2RlbD4gPSB7IHJlbmRlck1vZGVsIC0+CiAgICAgICAgY291bnRMYWJlbC50ZXh0ID0gIiR7cmVuZGVyTW9kZWwuY291bnR9IgogICAgICAgIGluY3JlbWVudEJ1dHRvbi5hY3Rpb24geyByZW5kZXJNb2RlbC5vbkluY3JlbWVudCgpIH0KICAgICAgICBkZWNyZW1lbnRCdXR0b24uYWN0aW9uIHsgcmVuZGVyTW9kZWwub25EZWNyZW1lbnQoKSB9CiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwuaW1wbGRlcC5jb20uYW1hem9uYXdzLlByZWRlZmluZWRDbGllbnRDb25maWd1cmF0aW9ucy5kZWZhdWx0Q29uZmlnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyID0gImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
+        <text encoding="base64">ICAgIGtvdGxpbigiYW5kcm9pZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewogICAgICAgIGdldEJ5TmFtZSgicmVsZWFzZSIpIHsKICAgICAgICAgICAgaXNNaW5pZnlFbmFibGVkID0gZmFsc2UKICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyhnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCJwcm9ndWFyZC1hbmRyb2lkLnR4dCIpLCAicHJvZ3VhcmQtcnVsZXMucHJvIikKICAgICAgICB9CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJuby50b3JuYWRvOnRvcm5hZG9meDoxLjcuMTgiKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyID0gImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewogICAgICAgIGdldEJ5TmFtZSgicmVsZWFzZSIpIHsKICAgICAgICAgICAgaXNNaW5pZnlFbmFibGVkID0gZmFsc2UKICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyhnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCJwcm9ndWFyZC1hbmRyb2lkLnR4dCIpLCAicHJvZ3VhcmQtcnVsZXMucHJvIikKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YW5kcm9pZCB7CiAgICAKfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CnZhbCBjb21waWxlS290bGluIGJ5IHRhc2tzLmdldHRpbmcoS290bGluSnZtQ29tcGlsZTo6Y2xhc3MpIHsKICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgIGp2bVRhcmdldCA9ICIxLjgiCiAgICB9Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS5kc2wuS290bGluSnZtQ29tcGlsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>9</text>
       </register>
     </registers>
     <search>
