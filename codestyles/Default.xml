@@ -49,6 +49,9 @@
   </XML>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
     <arrangement>
       <rules>
         <section>
@@ -131,6 +134,7 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
+            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
