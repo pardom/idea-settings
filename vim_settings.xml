@@ -3,329 +3,131 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterView.kt" timestamp="1549218537189">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="25" column="3" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-store-chooser/build.gradle" timestamp="1549316566000">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle" timestamp="1549157175209">
-        <mark key="[" line="6" column="65" />
-        <mark key="]" line="6" column="65" />
-        <mark key="." line="6" column="65" />
-        <mark key="^" line="6" column="65" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Cycle.kt" timestamp="1548875637336">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="45" column="42" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-autocomplete/build.gradle" timestamp="1549316277224">
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="85" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-appindexing/build.gradle" timestamp="1549311405147">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-referral/build.gradle" timestamp="1549313849223">
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-referral/build.gradle" timestamp="1549315816121">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="19" column="87" />
         <mark key="^" line="19" column="78" />
-        <mark key="." line="35" column="0" />
+        <mark key="." line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/types.kt" timestamp="1548890458465">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-        <mark key="^" line="8" column="35" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-browse-tab/build.gradle" timestamp="1549316343079">
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="85" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Dependency.kt" timestamp="1548895142276">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-browse/build.gradle" timestamp="1549316182957">
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="19" column="101" />
+        <mark key="." line="19" column="76" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskList.kt" timestamp="1548876738611">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-items/build.gradle" timestamp="1549316491638">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListView.kt" timestamp="1548876779362">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-checkout/build.gradle" timestamp="1549316393305">
+        <mark key="'" line="19" column="91" />
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="19" column="91" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterApp.kt" timestamp="1549165082610">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="11" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/Main.kt" timestamp="1549152215669">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1549217120428">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListIntent.kt" timestamp="1548876716100">
-        <mark key="'" line="5" column="14" />
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-change-location/build.gradle" timestamp="1549313826710">
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-whitelabel/build.gradle" timestamp="1549315995769">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="19" column="88" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="19" column="77" />
+        <mark key="]" line="19" column="98" />
+        <mark key="^" line="19" column="89" />
+        <mark key="." line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/build.gradle" timestamp="1549311569115">
-        <mark key="[" line="55" column="72" />
-        <mark key="]" line="55" column="72" />
-        <mark key="^" line="54" column="114" />
-        <mark key="." line="55" column="72" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/build.gradle.kts" timestamp="1548896710783">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="15" column="42" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/types.kt" timestamp="1549168187758">
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="12" column="62" />
-        <mark key="." line="12" column="66" />
-        <mark key="^" line="14" column="21" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/Counter.kt" timestamp="1549168901020">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="43" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/Driver.kt" timestamp="1548546210311">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-browse/build.gradle" timestamp="1549313813980">
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-loggedout/build.gradle" timestamp="1549316508060">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle" timestamp="1549158076795">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="2" />
-        <mark key="." line="42" column="2" />
-        <mark key="^" line="42" column="2" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-express/build.gradle" timestamp="1549316467062">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskModel.kt" timestamp="1548890343601">
-        <mark key="[" line="8" column="83" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/build.gradle.kts" timestamp="1548883018248">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeTest.kt" timestamp="1549256292198">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="41" />
-        <mark key="." line="36" column="41" />
-        <mark key="^" line="36" column="41" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" timestamp="1549149764292">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/build.gradle.kts" timestamp="1549217208085">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/res/layout/counter_view.xml" timestamp="1549217543623">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskView.kt" timestamp="1548890357455">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Artifact.kt" timestamp="1548716062035">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-whitelabel/build.gradle" timestamp="1549313857886">
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-orders-list/build.gradle" timestamp="1549315754840">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="19" column="98" />
+        <mark key="^" line="19" column="96" />
+        <mark key="." line="19" column="96" />
+      </file>
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-account-notifications/build.gradle" timestamp="1549316213086">
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="19" column="97" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-ui/build.gradle" timestamp="1549316586271">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-loggedin/build.gradle" timestamp="1549316500133">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-country/build.gradle" timestamp="1549316456708">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="75" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-store-chooser-pickup/build.gradle" timestamp="1549316575811">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
-        <mark key="^" line="19" column="89" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-orders-list/build.gradle" timestamp="1549313833941">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="19" column="88" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-rate/build.gradle" timestamp="1549313840397">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="19" column="88" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart/build.gradle" timestamp="1549310001974">
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="264" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1549216461673">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="55" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/android/src/main/kotlin/todos/component/task/AndroidTaskView.kt" timestamp="1548883161200">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/kotlin/counter/MainActivity.kt" timestamp="1549217286745">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/Module.md" timestamp="1549157496712">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="14" column="50" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/run.kt" timestamp="1548875868357">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1549168163389">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/AndroidManifest.xml" timestamp="1549217213752">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1549167256613">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="65" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-orders-list/src/main/java/com/instacart/client/orderslist/di/ICOrdersListDI.kt" timestamp="1549313389252" />
-      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle" timestamp="1549150974836">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/platform/Effect.kt" timestamp="1549157530257">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="36" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="15" column="41" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/AndroidManifest.xml" timestamp="1549216762065">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/src/main/kotlin/counter/component/CounterView.kt" timestamp="1549217449960">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="53" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-cart/build.gradle" timestamp="1549313821933">
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-order-status/build.gradle" timestamp="1549316544882">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/src/main/kotlin/kmvi/TaggedSource.kt" timestamp="1548436957073">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-replacements/build.gradle" timestamp="1549316559018">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/build.gradle.kts" timestamp="1549216314460">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-cart/build.gradle" timestamp="1549315892230">
+        <mark key="[" line="19" column="80" />
+        <mark key="]" line="19" column="101" />
+        <mark key="." line="19" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549217501103">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-api/build.gradle" timestamp="1549316266037">
+        <mark key="[" line="19" column="80" />
+        <mark key="]" line="19" column="105" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskListModel.kt" timestamp="1548876759444">
-        <mark key="'" line="2" column="20" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/Group.kt" timestamp="1548716026882">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/tasklist/TaskView.kt" timestamp="1548876765749">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-retailer-info/build.gradle" timestamp="1549313853920">
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-retailer-info/build.gradle" timestamp="1549315807735">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="71" />
         <mark key="^" line="19" column="62" />
-        <mark key="." line="31" column="0" />
+        <mark key="." line="19" column="50" />
+      </file>
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-containers/build.gradle" timestamp="1549316388983">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Source/instacart/instacart-android/dependencies.gradle" timestamp="1549313610366">
         <mark key="'" line="129" column="36" />
@@ -334,53 +136,42 @@
         <mark key="." line="216" column="33" />
         <mark key="^" line="216" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/src/main/kotlin/counter/Counter.kt" timestamp="1549164632459">
-        <mark key="'" line="30" column="63" />
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="30" column="61" />
-        <mark key="." line="30" column="61" />
-        <mark key="^" line="30" column="61" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-item-details/build.gradle" timestamp="1549316481521">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/core/build.gradle.kts" timestamp="1548883043252">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-google-apis/build.gradle" timestamp="1549316472720">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskIntent.kt" timestamp="1548890523231">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-onboarding/build.gradle" timestamp="1549316529148">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/buildSrc/src/main/kotlin/kvmi/WithCharSequence.kt" timestamp="1548723445961">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-base/build.gradle" timestamp="1549316318415">
+        <mark key="[" line="18" column="117" />
+        <mark key="]" line="18" column="142" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/android/build.gradle.kts" timestamp="1548885066299">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="5" />
-        <mark key="^" line="33" column="5" />
-        <mark key="." line="33" column="5" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-order-changes/build.gradle" timestamp="1549316536515">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/kmvi/samples/todos/core/src/main/kotlin/todos/component/task/TaskList.kt" timestamp="1548892136637">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-wind-down/build.gradle" timestamp="1549313862721">
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-wind-down/build.gradle" timestamp="1549315772850">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="18" column="97" />
         <mark key="^" line="18" column="88" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="18" column="99" />
       </file>
-      <file name="/fragment.java" timestamp="1549217247972">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-lowstock/build.gradle" timestamp="1549316522549">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -394,43 +185,48 @@
       <jump line="84" column="87" filename="$USER_HOME$/Source/instacart/instacart-android/dependencies.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/instacart/instacart-android/dependencies.gradle" />
       <jump line="129" column="36" filename="$USER_HOME$/Source/instacart/instacart-android/dependencies.gradle" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/instacart/instacart-android/instacart-checkout/build.gradle" />
+      <jump line="19" column="91" filename="$USER_HOME$/Source/instacart/instacart-android/instacart-checkout/build.gradle" />
+      <jump line="52" column="101" filename="$USER_HOME$/Source/instacart/instacart-android/instacart-checkout/build.gradle" />
+      <jump line="50" column="0" filename="$USER_HOME$/Source/instacart/instacart-android/instacart-ui/build.gradle" />
+      <jump line="53" column="0" filename="$USER_HOME$/Source/instacart/instacart-android/instacart-ui/build.gradle" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ZW5hYmxlQW5ub3RhdGlvblByb2Nlc3NvciA=</text>
+        <text encoding="base64">Y3JlYXRlRGFnZ2VyRGVwcyh0cnVlKSA+PiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCg==</text>
+        <text encoding="base64">ICAgIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCg==</text>
+        <text encoding="base64">ICAgIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGltcGxlbWVudGF0aW9uIGxpYnJhcmllcy5kYWdnZXIK</text>
+        <text encoding="base64">ICAgIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBrYXB0IGxpYnJhcmllcy5kYWdnZXJDb21waWxlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCg==</text>
+        <text encoding="base64">CiAgICBrYXB0IGxpYnJhcmllcy5kYWdnZXJDb21waWxlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBrYXB0IGxpYnJhcmllcy5kYWdnZXJDb21waWxlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCg==</text>
+        <text encoding="base64">CiAgICBrYXB0IGxpYnJhcmllcy5kYWdnZXJDb21waWxlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBrYXB0IGxpYnJhcmllcy5kYWdnZXJDb21waWxlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGthcHQgbGlicmFyaWVzLmRhZ2dlckNvbXBpbGVyCg==</text>
+        <text encoding="base64">CiAgICBrYXB0IGxpYnJhcmllcy5kYWdnZXJDb21waWxlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBrYXB0IGxpYnJhcmllcy5kYWdnZXJDb21waWxlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>kapt libraries.daggerCompiler</text>
       </register>
     </registers>
     <search>
@@ -449,6 +245,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
