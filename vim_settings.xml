@@ -9,6 +9,11 @@
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterView.kt" timestamp="1549301394584">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1549298899247">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,40 +52,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKFRocmVhZC5jdXJyZW50VGhyZWFkKCkubmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmcgPSBpbnNldHMoMTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBjb250ZXh0OiBDb3JvdXRpbmVDb250ZXh0CiAgICBydW5CbG9ja2luZyB7CiAgICAgICAgY29udGV4dCA9IGNvcm91dGluZUNvbnRleHRbQ29udGludWF0aW9uSW50ZXJjZXB0b3JdIGFzIENvcm91dGluZURpc3BhdGNoZXIKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBjb250ZXh0OiBDb3JvdXRpbmVDb250ZXh0CiAgICBydW5CbG9ja2luZyB7CiAgICAgICAgY29udGV4dCA9IGNvcm91dGluZUNvbnRleHRbQ29udGludWF0aW9uSW50ZXJjZXB0b3JdIGFzIENvcm91dGluZURpc3BhdGNoZXIKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Y2VuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuQmxvY2tpbmcoY29udGV4dCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29udGV4dCA9IGNvcm91dGluZUNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZyA9IGluc2V0cygxMC4wKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBjb250ZXh0OiBDb3JvdXRpbmVDb250ZXh0CiAgICBydW5CbG9ja2luZyB7CiAgICAgICAgY29udGV4dCA9IGNvcm91dGluZUNvbnRleHRbQ29udGludWF0aW9uSW50ZXJjZXB0b3JdIGFzIENvcm91dGluZURpc3BhdGNoZXIKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJ1bkJsb2NraW5nIHsKICAgICAgICB2YWwgZGlzcGF0Y2hlciA9IGNvcm91dGluZUNvbnRleHRbQ29udGludWF0aW9uSW50ZXJjZXB0b3JdIGFzIENvcm91dGluZURpc3BhdGNoZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVuQmxvY2tpbmcoY29udGV4dCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29udGV4dCA9IGNvcm91dGluZUNvbnRleHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTY29wZWRPYmplY3QoZGlzcGF0Y2hlcikgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>runBlocking</text>
+        <text>constrains</text>
       </register>
     </registers>
     <search>
