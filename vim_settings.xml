@@ -14,19 +14,28 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1549321195963">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1549298899247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeTest.kt" timestamp="1549299735132">
-        <mark key="[" line="9" column="24" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeTest.kt" timestamp="1549320733000">
+        <mark key="[" line="6" column="11" />
         <mark key="]" line="9" column="35" />
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/runtime.kt" timestamp="1549299972604">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeSpec.kt" timestamp="1549320927370">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="^" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/runtime.kt" timestamp="1549321339285">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1549295154469">
         <mark key="[" line="5" column="9" />
@@ -47,46 +56,49 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="/fragment.java" timestamp="1549321200418">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="11" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/runtime.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmcgPSBpbnNldHMoMTApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJbJGNvcm91dGluZUNvbnRleHRdOiByZWR1Y2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiWyRjb3JvdXRpbmVDb250ZXh0XTogc3Vic2NyaXB0aW9ucyIpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiWyRjb3JvdXRpbmVDb250ZXh0XTogc3Vic2NyaXB0aW9ucyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiWyRjb3JvdXRpbmVDb250ZXh0XTogZWZmZWN0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiWyRjb3JvdXRpbmVDb250ZXh0XTogZGlzcGF0Y2giKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZyA9IGluc2V0cygxMC4wKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJbJGNvcm91dGluZUNvbnRleHRdOiByZWR1Y2UiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBjb250ZXh0OiBDb3JvdXRpbmVDb250ZXh0CiAgICBydW5CbG9ja2luZyB7CiAgICAgICAgY29udGV4dCA9IGNvcm91dGluZUNvbnRleHRbQ29udGludWF0aW9uSW50ZXJjZXB0b3JdIGFzIENvcm91dGluZURpc3BhdGNoZXIKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIlskY29yb3V0aW5lQ29udGV4dF06IHJ1bnRpbWUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuQmxvY2tpbmcoY29udGV4dCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nKCJkaXNwYXRjaCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29udGV4dCA9IGNvcm91dGluZUNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nKCIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nKCIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>constrains</text>
+        <text>reduce</text>
       </register>
     </registers>
     <search>
