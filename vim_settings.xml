@@ -20,12 +20,12 @@
       <file name="/fragment.kt" timestamp="1549298899247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1549393290086">
-        <mark key="'" line="14" column="18" />
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1549394770023">
+        <mark key="'" line="12" column="18" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="41" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeTest.kt" timestamp="1549320733000">
         <mark key="[" line="6" column="11" />
@@ -86,40 +86,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKFRocmVhZC5jdXJyZW50VGhyZWFkKCkubmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJ1bm5pbmcpIHJldHVybgogICAgICAgIHZhbCAobW9kZWwsIGVmZmVjdCkgPSBuZXh0CiAgICAgICAgdmFsIGRpc3BhdGNoID0geyBtc2c6IE1zZyAtPgogICAgICAgICAgICByZWR1Y2UodXBkYXRlKG1zZywgbW9kZWwpKQogICAgICAgIH0KICAgICAgICByZW5kZXIodmlldyhtb2RlbCwgZGlzcGF0Y2gpKQogICAgICAgIGxhdW5jaCB7IGVmZmVjdChkaXNwYXRjaCkgfQogICAgICAgIGxhdW5jaCB7IHN1YnNjcmlwdGlvbnMobW9kZWwpKGRpc3BhdGNoKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>launch</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjaGFubmVsID0gQ2hhbm5lbDxOZXh0PE1vZGVsLCBNc2c+PigpCg==</text>
+        <text encoding="base64">ICAgIHZhbCByZWR1Y2VyID0KICAgICAgICBhY3RvcjxOZXh0PE1vZGVsLCBNc2c+PiB7CiAgICAgICAgICAgIGZvciAobmV4dCBpbiBjaGFubmVsKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdAo=</text>
+        <text encoding="base64">ICAgIHJlZHVjZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZGlzcGF0Y2gobXNnOiBNc2cpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpdGhDb250ZXh0KGNvcm91dGluZUNvbnRleHQpIHsKICAgICAgICAKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZHVjZXIuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdG9yLgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENvcm91dGluZVNjb3BlKGNvcm91dGluZUNvbnRleHQpLnJ1biB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMYXp5QWMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGhDb250ZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICBmb3IodXBkYXRlKSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkpBWEJFbGVtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IodXBkYXRlIGluIGNoYW5uZWwpIHsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>launch</text>
       </register>
     </registers>
     <search>
