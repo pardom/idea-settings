@@ -18,12 +18,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1550022274010">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1550023235002">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550021772398">
         <mark key="'" line="42" column="0" />
@@ -239,47 +239,48 @@
       <jump line="30" column="4" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" />
       <jump line="9" column="17" filename="$USER_HOME$/Source/pardom/oolong/samples/time/desktop/src/main/kotlin/time/TimeApp.kt" />
+      <jump line="12" column="15" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GlobalScope</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>GlobalScope</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6MS4xLjEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcnVudGltZVRocmVhZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkpBWEJFbGVtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRocmVhZC5jdXJyZW50VGhyZWFkKCkgIT0gcnVudGltZVRocmVhZCkgewogICAgICAgICAgICAgICAgdGhyb3cgSWxsZWdhbFRocmVhZFN0YXRlRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICJEaXNwYXRjaCBmdW5jdGlvbiBtdXN0IGJlIGludm9rZWQgZnJvbSAkcnVudGltZVRocmVhZCBidXQgd2FzIGludm9rZWQgZnJvbSAke1RocmVhZC5jdXJyZW50VGhyZWFkKCl9LiIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkpBWEJFbGVtZW50Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUuR2xvYmFsQ29uc3RhbnRzCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
             JAXBElement.GlobalScope</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9vbG9uZy5Pb2xvbmcK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biA8TW9kZWwsIE1zZywgUHJvcHM+IENvcm91dGluZVNjb3BlLnJ1bnRpbWUoCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">b2JqZWN0IE9vbG9uZyB7Cgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>
