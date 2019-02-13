@@ -18,12 +18,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1550021710802">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="24" column="55" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1550022274010">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550021772398">
         <mark key="'" line="42" column="0" />
@@ -43,12 +43,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/desktop/src/main/kotlin/time/TimeApp.kt" timestamp="1550021746173">
-        <mark key="'" line="8" column="17" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="8" column="34" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/desktop/src/main/kotlin/time/TimeApp.kt" timestamp="1550022291876">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/internal/RuntimeScope.kt" timestamp="1549943134590">
         <mark key="[" line="8" column="16" />
@@ -125,12 +125,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeTest.kt" timestamp="1550021718536">
-        <mark key="'" line="21" column="39" />
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="34" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeTest.kt" timestamp="1550022286217">
+        <mark key="'" line="20" column="39" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-containers/build.gradle" timestamp="1549316388983">
         <mark key="[" line="29" column="0" />
@@ -241,45 +241,45 @@
       <jump line="9" column="17" filename="$USER_HOME$/Source/pardom/oolong/samples/time/desktop/src/main/kotlin/time/TimeApp.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6MS4xLjEiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>GlobalScope</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>GlobalScope</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6MS4xLjEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkpBWEJFbGVtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkpBWEJFbGVtZW50Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUuR2xvYmFsQ29uc3RhbnRzCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
             JAXBElement.GlobalScope</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9vbG9uZy5Pb2xvbmcK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZ1biA8TW9kZWwsIE1zZywgUHJvcHM+IENvcm91dGluZVNjb3BlLnJ1bnRpbWUoCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IE9vbG9uZyB7Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbml0Cg==</text>
+        <text encoding="base64">b2JqZWN0IE9vbG9uZyB7Cgo=</text>
       </register>
     </registers>
     <search>
