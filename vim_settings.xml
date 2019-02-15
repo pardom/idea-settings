@@ -24,12 +24,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1550166644543">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="30" column="21" />
-      </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550166093669">
         <mark key="'" line="40" column="32" />
         <mark key="[" line="13" column="4" />
@@ -265,11 +259,11 @@
       <jump line="39" column="32" filename="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvb2xvbmdTY29wZS5sYXVuY2ggewo=</text>
+      <register name="&quot;" type="4">
+        <text>launch</text>
       </register>
       <register name="-" type="4">
-        <text>thread</text>
+        <text>launch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvb2xvbmdTY29wZS5sYXVuY2ggewo=</text>
