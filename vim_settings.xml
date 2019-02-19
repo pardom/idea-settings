@@ -88,11 +88,11 @@
         <mark key="]" line="18" column="85" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/types.kt" timestamp="1550591783306">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="39" column="71" />
-        <mark key="]" line="39" column="71" />
-        <mark key="." line="39" column="71" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/types.kt" timestamp="1550592282725">
+        <mark key="'" line="31" column="38" />
+        <mark key="[" line="35" column="71" />
+        <mark key="]" line="35" column="71" />
+        <mark key="." line="35" column="71" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" timestamp="1550423564204">
         <mark key="[" line="802" column="0" />
@@ -100,13 +100,13 @@
         <mark key="^" line="812" column="4" />
         <mark key="." line="812" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/timer.kt" timestamp="1550587599657">
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/timer.kt" timestamp="1550592320327">
         <mark key="s" line="21" column="57" />
-        <mark key="'" line="72" column="51" />
-        <mark key="[" line="57" column="28" />
-        <mark key="]" line="57" column="28" />
-        <mark key="." line="57" column="28" />
-        <mark key="^" line="56" column="35" />
+        <mark key="'" line="71" column="51" />
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="72" column="3" />
+        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/.gitignore" timestamp="1549981553862">
         <mark key="[" line="15" column="6" />
@@ -120,10 +120,10 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/effects.kt" timestamp="1550521608110">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/effects.kt" timestamp="1550592301904">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
         <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/Counter.kt" timestamp="1550417521099">
@@ -200,12 +200,12 @@
         <mark key="." line="25" column="43" />
         <mark key="^" line="25" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/random.kt" timestamp="1550523198562">
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/random.kt" timestamp="1550592322680">
         <mark key="'" line="38" column="27" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="269" column="32" />
-        <mark key="." line="272" column="0" />
-        <mark key="^" line="271" column="16" />
+        <mark key="[" line="271" column="17" />
+        <mark key="]" line="272" column="3" />
+        <mark key="." line="272" column="3" />
+        <mark key="^" line="272" column="3" />
       </file>
       <file name="$USER_HOME$/Source/instacart/instacart-android/instacart-account-notifications/build.gradle" timestamp="1549316213086">
         <mark key="[" line="19" column="76" />
@@ -240,7 +240,7 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1550591793062">
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/Oolong.kt" timestamp="1550592296180">
         <mark key="[" line="20" column="42" />
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
@@ -509,46 +509,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/timer.kt" />
       <jump line="58" column="4" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/timer.kt" />
       <jump line="72" column="51" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/timer.kt" />
+      <jump line="39" column="38" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/types.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text encoding="base64">RWZmZWN0IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text encoding="base64">RWZmZWN0IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uU3RkTGliKQogICAgaW1wbGVtZW50YXRpb24oRGVwZW5kZW5jaWVzLktvdGxpbi5Db3JvdXRpbmVzLkphdmFGWCkKICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Ub3JuYWRvRlgpCg==</text>
+        <text encoding="base64">Ly8gdHlwZWFsaWFzIEVmZmVjdDxNc2c+ID0gKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSAtPiBVbml0Ci8vIGZ1biA8TXNnPiBFZmZlY3QoYmxvY2s6IChkaXNwYXRjaDogRGlzcGF0Y2g8TXNnPikgLT4gVW5pdCk6IEVmZmVjdDxNc2c+ID0geyBkaXNwYXRjaCAtPiBibG9jayhkaXNwYXRjaCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHR5cGVhbGlhcyBFZmZlY3Q8TXNnPiA9IChkaXNwYXRjaDogRGlzcGF0Y2g8TXNnPikgLT4gVW5pdAogZnVuIDxNc2c+IEVmZmVjdChibG9jazogKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSAtPiBVbml0KTogRWZmZWN0PE1zZz4gPSB7IGRpc3BhdGNoIC0+IGJsb2NrKGRpc3BhdGNoKSB9Cg==</text>
+        <text encoding="base64">Ci8vIEEgdHlwZSBpbmZlcmVuY2UgY29tcGlsZXIgYnVnIHByZXZlbnRzIEVmZmVjdCBmcm9tIGJlaW5nIGEgdHlwZWFsaWFzLgovLwovLyB0eXBlYWxpYXMgRWZmZWN0PE1zZz4gPSAoZGlzcGF0Y2g6IERpc3BhdGNoPE1zZz4pIC0+IFVuaXQKLy8gZnVuIDxNc2c+IEVmZmVjdChibG9jazogKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSAtPiBVbml0KTogRWZmZWN0PE1zZz4gPSB7IGRpc3BhdGNoIC0+IGJsb2NrKGRpc3BhdGNoKSB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQSB0eXBlIGluZmVyZW5jZSBjb21waWxlciBidWcgcHJldmVudHMgRWZmZWN0IGZyb20gYmVpbmcgYSB0eXBlYWxpYXMuCi8vCg==</text>
+        <text encoding="base64">Ly8gZnVuIDxNc2c+IEVmZmVjdChibG9jazogKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSAtPiBVbml0KTogRWZmZWN0PE1zZz4gPSB7IGRpc3BhdGNoIC0+IGJsb2NrKGRpc3BhdGNoKSB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQKY2xhc3MgRWZmZWN0PE1zZz4ocHJpdmF0ZSB2YWwgYmxvY2s6IChEaXNwYXRjaDxNc2c+KSAtPiBVbml0KSB7CiAgICBvcGVyYXRvciBmdW4gaW52b2tlKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSA9IGJsb2NrKGRpc3BhdGNoKQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQK</text>
+        <text encoding="base64">IHR5cGVhbGlhcyBFZmZlY3Q8TXNnPiA9IChkaXNwYXRjaDogRGlzcGF0Y2g8TXNnPikgLT4gVW5pdAogZnVuIDxNc2c+IEVmZmVjdChibG9jazogKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSAtPiBVbml0KTogRWZmZWN0PE1zZz4gPSB7IGRpc3BhdGNoIC0+IGJsb2NrKGRpc3BhdGNoKSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQK</text>
+        <text encoding="base64">Ly8gQSB0eXBlIGluZmVyZW5jZSBjb21waWxlciBidWcgcHJldmVudHMgRWZmZWN0IGZyb20gYmVpbmcgYSB0eXBlYWxpYXMuCi8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQK</text>
+        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQKY2xhc3MgRWZmZWN0PE1zZz4ocHJpdmF0ZSB2YWwgYmxvY2s6IChEaXNwYXRjaDxNc2c+KSAtPiBVbml0KSB7CiAgICBvcGVyYXRvciBmdW4gaW52b2tlKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSA9IGJsb2NrKGRpc3BhdGNoKQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vIEEgdHlwZSBpbmZlcmVuY2UgY29tcGlsZXIgYnVnIHByZXZlbnRzIEVmZmVjdCBmcm9tIGJlaW5nIGEgdHlwZWFsaWFzLgovLwo=</text>
+        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdHlwZWFsaWFzIEVmZmVjdDxNc2c+ID0gKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSAtPiBVbml0Ci8vIGZ1biA8TXNnPiBFZmZlY3QoYmxvY2s6IChkaXNwYXRjaDogRGlzcGF0Y2g8TXNnPikgLT4gVW5pdCk6IEVmZmVjdDxNc2c+ID0geyBkaXNwYXRjaCAtPiBibG9jayhkaXNwYXRjaCkgfQo=</text>
+        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQKY2xhc3MgRWZmZWN0PE1zZz4ocHJpdmF0ZSB2YWwgYmxvY2s6IChEaXNwYXRjaDxNc2c+KSAtPiBVbml0KSB7CiAgICBvcGVyYXRvciBmdW4gaW52b2tlKGRpc3BhdGNoOiBEaXNwYXRjaDxNc2c+KSA9IGJsb2NrKGRpc3BhdGNoKQp9Cg==</text>
+        <text encoding="base64">Ly8gcmVtb3ZlIG91dCB2YXJpYW5jZSB3aGVuIGluZmVyZW5jZSBjb21waWxlciBidWcgaXMgZml4ZWQK</text>
       </register>
     </registers>
     <search>
