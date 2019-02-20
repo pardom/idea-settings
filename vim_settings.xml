@@ -130,6 +130,12 @@
         <mark key="^" line="11" column="76" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/build/classes/kotlin/main/js.js" timestamp="1550677728026" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/js/index.html" timestamp="1550685029946">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Source/instacart/instacart-android/instacart-change-location/build.gradle" />
@@ -233,10 +239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Counter</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Counter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsYWJlbCIpPy5pbm5lckhUTUwgPSBEYXRlKHByb3BzLnRpbWUpLnRvVGltZVN0cmluZygpCg==</text>
