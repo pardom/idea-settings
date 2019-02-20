@@ -117,11 +117,11 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" timestamp="1550591060788">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" timestamp="1550673394250">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/dsl/Dependency.kt" timestamp="1550604591902">
         <mark key="[" line="24" column="36" />
@@ -180,9 +180,10 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550671121139">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550673117240">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="85" column="1" />
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/build.gradle.kts" timestamp="1550609503951">
@@ -209,6 +210,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="54" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" timestamp="1550673526155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/platform/Effect.kt" timestamp="1550503980955">
         <mark key="[" line="6" column="4" />
@@ -267,12 +273,8 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550615026154">
+      <file name="/Dummy.txt" timestamp="1550673567391">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-kotlin-dsl-1.1.3.jar!/org/gradle/kotlin/dsl/KotlinDependencyExtensions.kt" timestamp="1550609083938">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="38" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependencies.kt" timestamp="1550670461180">
         <mark key="[" line="51" column="44" />
@@ -292,13 +294,19 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/core/build.gradle.kts" timestamp="1550673467673">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Timer.java" timestamp="1550520858077">
         <mark key="[" line="472" column="1" />
         <mark key="]" line="472" column="0" />
         <mark key="^" line="472" column="0" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1550607858909">
+      <file name="/fragment.java" timestamp="1550673195684">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -386,46 +394,57 @@
       <jump line="66" column="57" filename="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" />
       <jump line="56" column="55" filename="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" />
       <jump line="37" column="45" filename="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" />
+      <jump line="19" column="15" filename="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" />
+      <jump line="85" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" />
+      <jump line="28" column="16" filename="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" />
+      <jump line="84" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" />
+      <jump line="20" column="20" filename="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/random/core/build.gradle.kts" />
+      <jump line="22" column="16" filename="$USER_HOME$/Source/pardom/oolong/samples/random/core/build.gradle.kts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/random/core/build.gradle.kts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>desktop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9vbG9uZy5EZXBlbmRlbmNpZXMKCnBsdWdpbnMgewogICAga290bGluKCJqdm0iKQp9CgpyZXBvc2l0b3JpZXMgewogICAgamNlbnRlcigpCn0KCmRlcGVuZGVuY2llcyB7CiAgICBpbXBsZW1lbnRhdGlvbihwcm9qZWN0KCI6b29sb25nIikpCiAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLlN0ZExpYikKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>desktop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIEp2bSA9IERlcGVuZGVuY3kodGhpcywgQkFTRSkK</text>
+        <text encoding="base64">aW1wb3J0IG9vbG9uZy5EZXBlbmRlbmNpZXMKCnBsdWdpbnMgewogICAga290bGluKCJtdWx0aXBsYXRmb3JtIikKfQoKcmVwb3NpdG9yaWVzIHsKICAgIGpjZW50ZXIoKQp9Cgprb3RsaW4gewogICAganMoKQogICAganZtKCkKICAgIGlvc1g2NCgiaW9zIikKICAgIGxpbnV4WDY0KCJsaW51eCIpCiAgICBtYWNvc1g2NCgibWFjT1MiKQogICAgbWluZ3dYNjQoIndpbmRvd3MiKQoKICAgIHNvdXJjZVNldHMgewogICAgICAgIHZhbCBjb21tb25NYWluIGJ5IGdldHRpbmcgewogICAgICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24ocHJvamVjdCgiOm9vbG9uZyIpKQogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24oRGVwZW5kZW5jaWVzLktvdGxpbi5TdGRMaWIuQ29tbW9uKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB2YWwganNNYWluIGJ5IGdldHRpbmcgewogICAgICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24oRGVwZW5kZW5jaWVzLktvdGxpbi5TdGRMaWIuSlMpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHZhbCBqdm1NYWluIGJ5IGdldHRpbmcgewogICAgICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24oRGVwZW5kZW5jaWVzLktvdGxpbi5TdGRMaWIuSkRLOCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9vbG9uZy5EZXBlbmRlbmNpZXMKCnBsdWdpbnMgewogICAga290bGluKCJqdm0iKQp9CgpyZXBvc2l0b3JpZXMgewogICAgamNlbnRlcigpCn0KCmRlcGVuZGVuY2llcyB7CiAgICBpbXBsZW1lbnRhdGlvbihwcm9qZWN0KCI6b29sb25nIikpCiAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLlN0ZExpYikKfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IG9vbG9uZy5EZXBlbmRlbmNpZXMKCnBsdWdpbnMgewogICAga290bGluKCJqdm0iKQp9CgpyZXBvc2l0b3JpZXMgewogICAgamNlbnRlcigpCn0KCmRlcGVuZGVuY2llcyB7CiAgICBpbXBsZW1lbnRhdGlvbihwcm9qZWN0KCI6b29sb25nIikpCiAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLlN0ZExpYikKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFza3MgewogICAgdmFsIGp2bVRlc3QgYnkgZ2V0dGluZyhUZXN0OjpjbGFzcykgewogICAgICAgIHVzZUpVbml0UGxhdGZvcm0gewogICAgICAgICAgICBpbmNsdWRlRW5naW5lcygic3BlazIiKQogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uQ29yb3V0aW5lcy5Db3JlLkpTKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHRlc3RQYXNzKCkgewogICAgICAgIGFzc2VydEVxdWFscyh0cnVlLCB0cnVlKQogICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIGNvbW1vblRlc3QgYnkgZ2V0dGluZyB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLlRlc3QuQ29tbW9uKQogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24oRGVwZW5kZW5jaWVzLktvdGxpbi5UZXN0LkFubm90YXRpb25zQ29tbW9uKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIGpzVGVzdCBieSBnZXR0aW5nIHsKICAgICAgICAgICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uVGVzdC5KUykKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gdGVzdEZhaWwoKSB7CiAgICAgICAgYXNzZXJ0RXF1YWxzKHRydWUsIGZhbHNlKQogICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIGp2bVRlc3QgYnkgZ2V0dGluZyB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLlRlc3QpCiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLlRlc3QuSlVuaXQ1KQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uU3RkTGliLkpTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uQ29yb3V0aW5lcy5Db3JlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIGlvc01haW4gYnkgZ2V0dGluZyB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLkNvcm91dGluZXMuQ29yZS5OYXRpdmUpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHZhbCBsaW51eE1haW4gYnkgZ2V0dGluZyB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLkNvcm91dGluZXMuQ29yZS5OYXRpdmUpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHZhbCBtYWNPU01haW4gYnkgZ2V0dGluZyB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLkNvcm91dGluZXMuQ29yZS5OYXRpdmUpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHZhbCB3aW5kb3dzTWFpbiBieSBnZXR0aW5nIHsKICAgICAgICAgICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uQ29yb3V0aW5lcy5Db3JlLk5hdGl2ZSkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gdGVzdEZhaWwoKSB7CiAgICAgICAgYXNzZXJ0RXF1YWxzKHRydWUsIGZhbHNlKQogICAgfQo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGltcGxlbWVudGF0aW9uKHByb2plY3QoIjpvb2xvbmciKSkKICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uU3RkTGliLkNvbW1vbikKfQo=</text>
       </register>
     </registers>
     <search>
