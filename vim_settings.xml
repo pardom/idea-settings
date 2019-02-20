@@ -3,288 +3,118 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterView.kt" timestamp="1550506956616">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="23" column="33" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/js/build.gradle.kts" timestamp="1550683511421">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/src/main/kotlin/oolong/javafx/Platform.kt" timestamp="1550505760008">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="23" column="8" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/javafx/build.gradle.kts" timestamp="1550683441474">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-android/gradle.properties" timestamp="1550506103402">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/src/main/kotlin/oolong/javafx/Oolong.kt" timestamp="1550505680273">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="14" />
-        <mark key="." line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/gradle.properties" timestamp="1550507180263">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/Oolong.kt" timestamp="1550604295185">
-        <mark key="[" line="17" column="61" />
-        <mark key="]" line="17" column="61" />
-        <mark key="." line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeSpec.kt" timestamp="1550513118570">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="29" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/js/index.html" timestamp="1550680288766">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/commonTest/kotlin/oolong/RuntimeTest.kt" timestamp="1550670953194">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/CounterApp.kt" timestamp="1550591301441">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="29" column="7" />
+      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1550683525776">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1550674729129">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/util/effects.kt" timestamp="1550680850791">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-swing/gradle.properties" timestamp="1550506185551">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/index.html" timestamp="1550679810819">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" timestamp="1550423564204">
-        <mark key="[" line="802" column="0" />
-        <mark key="]" line="811" column="57" />
-        <mark key="^" line="812" column="4" />
-        <mark key="." line="812" column="4" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/public/index.html" timestamp="1550678832340">
+        <mark key="[" line="9" column="67" />
+        <mark key="]" line="9" column="67" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/.gitignore" timestamp="1549981553862">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/src/main/kotlin/counter/counter.kt" timestamp="1550680395387">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/runtime.kt" timestamp="1549983206029">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/js/build.gradle.kts" timestamp="1550680356416">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/src/main/kotlin/counter/counter.kt" timestamp="1550675279179">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/js/src/main/kotlin/counter/counter.kt" timestamp="1550683493998">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/effects.kt" timestamp="1550672140857">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="42" />
-        <mark key="." line="9" column="42" />
-        <mark key="^" line="9" column="44" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-android/src/main/kotlin/oolong/android/Platform.kt" timestamp="1550506699723">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependency.kt" timestamp="1550590845280">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="23" />
-        <mark key="^" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/test/kotlin/oolong/RuntimeTest.kt" timestamp="1550027574473">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/desktop/src/main/kotlin/counter/Styles.kt" timestamp="1550421720768">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" timestamp="1550673394250">
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/dsl/Dependency.kt" timestamp="1550604591902">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="21" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/internal/RuntimeContext.kt" timestamp="1549943083852">
-        <mark key="[" line="8" column="75" />
-        <mark key="]" line="8" column="79" />
-        <mark key="^" line="8" column="79" />
-        <mark key="." line="8" column="79" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/desktop/build.gradle.kts" timestamp="1550591211986">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="42" />
-        <mark key="^" line="18" column="41" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/core/src/main/kotlin/time/Time.kt" timestamp="1550672218388">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="46" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/util/random.kt" timestamp="1550592322680">
-        <mark key="'" line="38" column="27" />
-        <mark key="[" line="271" column="17" />
-        <mark key="]" line="272" column="3" />
-        <mark key="." line="272" column="3" />
-        <mark key="^" line="272" column="3" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/javafx/src/main/kotlin/time/TimeView.kt" timestamp="1550681724813">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="32" column="37" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1550675734227">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/core/src/main/kotlin/random/RandomProgram.kt" timestamp="1550523973004">
-        <mark key="'" line="31" column="40" />
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="31" column="77" />
-        <mark key="^" line="31" column="77" />
-        <mark key="." line="31" column="77" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/build.gradle.kts" timestamp="1550677606831">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/build.gradle.kts" timestamp="1550675740190">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/core/src/commonMain/kotlin/time/Time.kt" timestamp="1550684043697">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/jvmTest/kotlin/oolong/RuntimeSpec.kt" timestamp="1550606923511">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/util/interval.kt" timestamp="1550683122286">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-android/src/main/kotlin/oolong/android/Android.kt" timestamp="1550506331073">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" timestamp="1550683418258">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="65" />
+        <mark key="^" line="30" column="65" />
+        <mark key="." line="30" column="65" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550673117240">
-        <mark key="'" line="19" column="15" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="85" column="1" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/build.gradle.kts" timestamp="1550609503951">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/desktop/src/main/kotlin/time/TimeApp.kt" timestamp="1550517053396">
-        <mark key="'" line="28" column="21" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/internal/RuntimeScope.kt" timestamp="1549943134590">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-swing/build.gradle.kts" timestamp="1550609522200">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="12" column="54" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" timestamp="1550673526155">
+      <file name="/Dummy.txt" timestamp="1550679405519">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/platform/Effect.kt" timestamp="1550503980955">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="50" />
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-kotlin-dsl-1.1.3.jar!/org/gradle/kotlin/dsl/KotlinDependencyExtensions.kt" timestamp="1550609083938">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/core/src/main/kotlin/random/Random.kt" timestamp="1550671961577">
-        <mark key="'" line="25" column="27" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="47" />
-        <mark key="." line="27" column="47" />
-        <mark key="^" line="27" column="47" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/src/main/kotlin/oolong/javafx/JavaFX.kt" timestamp="1550506728561">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-android/build.gradle.kts" timestamp="1550609516507">
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="12" column="56" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-android/src/main/kotlin/oolong/android/Oolong.kt" timestamp="1550506398750">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="33" column="4" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/desktop/src/main/kotlin/time/Styles.kt" timestamp="1550423235057">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/commonTest/kotlin/oolong/RuntimeSpec.kt" timestamp="1550627868661">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-        <mark key="^" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/jars-3/c9b21b557e1a16e8096630390c69c9eb/buildSrc.jar!/oolong/dsl/Dependency.class" timestamp="1550613944317">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/desktop/src/main/kotlin/random/RandomApp.kt" timestamp="1550591334583">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="36" column="3" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1550673567391">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/js/src/main/kotlin/time/time.kt" timestamp="1550683994755">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependencies.kt" timestamp="1550674676488">
         <mark key="[" line="41" column="16" />
@@ -292,33 +122,14 @@
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/src/main/kotlin/counter/Counter.kt" timestamp="1550671896504">
-        <mark key="[" line="33" column="38" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
-        <mark key="^" line="33" column="42" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/js/src/main/kotlin/random/random.kt" timestamp="1550680381107">
+        <mark key="'" line="25" column="10" />
+        <mark key="[" line="11" column="71" />
+        <mark key="]" line="11" column="76" />
+        <mark key="." line="11" column="76" />
+        <mark key="^" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/src/main/kotlin/oolong/Platform.kt" timestamp="1550505633228">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="29" column="3" />
-        <mark key="^" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-      </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/random/core/build.gradle.kts" timestamp="1550673467673">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Timer.java" timestamp="1550520858077">
-        <mark key="[" line="472" column="1" />
-        <mark key="]" line="472" column="0" />
-        <mark key="^" line="472" column="0" />
-        <mark key="." line="472" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1550673195684">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/build/classes/kotlin/main/js.js" timestamp="1550677728026" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Source/instacart/instacart-android/instacart-change-location/build.gradle" />
@@ -415,46 +226,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/random/core/build.gradle.kts" />
       <jump line="13" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" />
+      <jump line="26" column="10" filename="$USER_HOME$/Source/pardom/oolong/samples/random/js/src/main/kotlin/random/random.kt" />
+      <jump line="12" column="7" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/util/interval.kt" />
+      <jump line="25" column="28" filename="$USER_HOME$/Source/pardom/oolong/samples/time/core/src/commonMain/kotlin/time/Time.kt" />
+      <jump line="13" column="4" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/util/interval.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlkKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5mcm9udGVuZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uSHRtbC5KUykK</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsYWJlbCIpPy5pbm5lckhUTUwgPSBEYXRlKHByb3BzLnRpbWUpLnRvVGltZVN0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5mcm9udGVuZCIpCg==</text>
+        <text encoding="base64">ICAgIC8vIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsYWJlbCIpPy5pbm5lckhUTUwgPSBwcm9wcy50aW1lLnRvVGltZVN0cmluZygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbigiaHR0cDovL2RsLmJpbnRyYXkuY29tL2tvdGxpbi9rb3RsaW4tZWFwIikKICAgICAgICBtYXZlbigiaHR0cHM6Ly9wbHVnaW5zLmdyYWRsZS5vcmcvbTIvIikKICAgICAgICBtYXZlbigiaHR0cHM6Ly9rb3RsaW4uYmludHJheS5jb20va290bGlueCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50VGltZU1pbGxpcygpLnRvU3RyaW5nKCkgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uQ29yb3V0aW5lcy5KUykK</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24gewogICAgICAgICAgICBpZCA9ICJkZWNyZW1lbnQiCiAgICAgICAgICAgICsiLTEiCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpdmF0ZSBsYXRlaW5pdCB2YXIgaW5jcmVtZW50QnV0dG9uOiBCVVRUT04KCg==</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24gewogICAgICAgICAgICBpZCA9ICJpbmNyZW1lbnQiCiAgICAgICAgICAgICsiKzEiCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguaHRtbC5qcy5kaXYK</text>
+        <text encoding="base64">ICAgIFVuaXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguaHRtbC5kb20uY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJpbmNyZW1lbnQiKT8uYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCB7IHByb3BzLm9uSW5jcmVtZW50KCkgfSkKICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJkZWNyZW1lbnQiKT8uYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCB7IHByb3BzLm9uRGVjcmVtZW50KCkgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcGVuZGVuY2llcy5Lb3RsaW4uQ29yb3V0aW5lcy5Db3JlKQo=</text>
       </register>
     </registers>
     <search>
@@ -479,6 +294,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
