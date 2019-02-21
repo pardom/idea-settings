@@ -202,10 +202,11 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1550689548347">
-        <mark key="[" line="1" column="18" />
+      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1550763308941">
+        <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="60" />
-        <mark key="." line="7" column="0" />
+        <mark key="." line="7" column="60" />
+        <mark key="^" line="7" column="60" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/build.gradle.kts" timestamp="1550677606831">
         <mark key="[" line="16" column="0" />
@@ -238,11 +239,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550761405915">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="24" />
+      <file name="$USER_HOME$/Source/pardom/oolong/oolong/build.gradle.kts" timestamp="1550764752938">
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="65" column="17" />
+        <mark key="." line="65" column="17" />
+        <mark key="^" line="65" column="17" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/build.gradle.kts" timestamp="1550609503951">
         <mark key="[" line="14" column="0" />
@@ -310,7 +311,8 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550679405519">
+      <file name="$USER_HOME$/.gradle/caches/5.2.1/gradle-kotlin-dsl-accessors/air3d981yb4uv9299fe0xsotk/cache/src/org/gradle/kotlin/dsl/Accessorsc91mcsu96p58tx28dl0ikvv61.kt" timestamp="1550764233530" />
+      <file name="/Dummy.txt" timestamp="1550764781188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -326,11 +328,12 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependencies.kt" timestamp="1550689540887">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="14" />
+      <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependencies.kt" timestamp="1550763513354">
+        <mark key="'" line="69" column="43" />
+        <mark key="[" line="77" column="32" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/src/main/kotlin/counter/Counter.kt" timestamp="1550671896504">
         <mark key="[" line="33" column="38" />
@@ -463,54 +466,48 @@
       <jump line="12" column="7" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/util/interval.kt" />
       <jump line="25" column="28" filename="$USER_HOME$/Source/pardom/oolong/samples/time/core/src/commonMain/kotlin/time/Time.kt" />
       <jump line="13" column="4" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/util/interval.kt" />
+      <jump line="69" column="43" filename="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependencies.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CounterOolong</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lID0gImlvcyIK</text>
       </register>
       <register name="-" type="4">
-        <text>CounterOolong</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpzKCkKICAgIGp2bSgpCiAgICBpb3NYNjQoImlvcyIpIHsKICAgICAgICBiaW5hcmllcyB7CiAgICAgICAgICAgIGZyYW1ld29yaygiT29sb25nIikKICAgICAgICB9CiAgICB9CiAgICBsaW51eFg2NCgibGludXgiKQogICAgbWFjb3NYNjQoIm1hY09TIikgewogICAgICAgIGJpbmFyaWVzIHsKICAgICAgICAgICAgZnJhbWV3b3JrKCJPb2xvbmciKQogICAgICAgIH0KICAgIH0KICAgIG1pbmd3WDY0KCJ3aW5kb3dzIikK</text>
+        <text encoding="base64">ICAgIG9iamVjdCBDb2NvYVBvZHMgOiBHcm91cCgiY29tLmFsZWNzdHJvbmciLCAiMC4zLjEiKSB7CiAgICAgICAgY29uc3QgdmFsIFBsdWdpbiA9ICJjb20uYWxlY3N0cm9uZy5jb2NvYXBvZHMiCgogICAgICAgIG9iamVjdCBHcmFkbGUgOiBHcm91cCh0aGlzKSB7CiAgICAgICAgICAgIG9iamVjdCBQbHVnaW4gOiBHcm91cCh0aGlzKSB7CiAgICAgICAgICAgICAgICBvdmVycmlkZSB2YWwgREVGQVVMVCA9IERlcGVuZGVuY3kodGhpcywgImNvY29hcG9kcy1ncmFkbGUtcGx1Z2luIikKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzKCkKICAgIGp2bSgpCiAgICBpb3NYNjQoImlvcyIpCiAgICBsaW51eFg2NCgibGludXgiKQogICAgbWFjb3NYNjQoIm1hY09TIikKICAgIG1pbmd3WDY0KCJ3aW5kb3dzIikK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lID0gImlvcyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-        binaries {
-            framework(&quot;Oolong&quot;)
-        }
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICB0YXJnZXRGb3JDb2NvYXBvZHMoYXJyYXlPZihwcmVzZXRzLmlvc0FybTY0LCBwcmVzZXRzLmlvc1g2NCksICJpb3MiKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-        binaries {
-            framework(&quot;Oolong&quot;)
-        }
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGpqCgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhcmdldEZvckNvY29hcG9kcyB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgICAgICBiaW5hcmllcyB7CiAgICAgICAgICAgIGZyYW1ld29yaygiT29sb25nIikKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>{
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5hcmllcyB7CiAgICAgICAgICAgIGZyYW1ld29yaygiT29sb25nIikKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
