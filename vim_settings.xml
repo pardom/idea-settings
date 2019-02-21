@@ -172,10 +172,11 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" timestamp="1550761408765">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/build.gradle.kts" timestamp="1550762210305">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/dsl/Dependency.kt" timestamp="1550604591902">
         <mark key="[" line="24" column="36" />
@@ -464,11 +465,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/Source/pardom/oolong/oolong/src/commonMain/kotlin/oolong/util/interval.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGpzKCkKICAgIGp2bSgpCiAgICBpb3NYNjQoImlvcyIpCiAgICBsaW51eFg2NCgibGludXgiKQogICAgbWFjb3NYNjQoIm1hY09TIikKICAgIG1pbmd3WDY0KCJ3aW5kb3dzIikK</text>
+      <register name="&quot;" type="4">
+        <text>CounterOolong</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsgIH0=</text>
+        <text>CounterOolong</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGpzKCkKICAgIGp2bSgpCiAgICBpb3NYNjQoImlvcyIpIHsKICAgICAgICBiaW5hcmllcyB7CiAgICAgICAgICAgIGZyYW1ld29yaygiT29sb25nIikKICAgICAgICB9CiAgICB9CiAgICBsaW51eFg2NCgibGludXgiKQogICAgbWFjb3NYNjQoIm1hY09TIikgewogICAgICAgIGJpbmFyaWVzIHsKICAgICAgICAgICAgZnJhbWV3b3JrKCJPb2xvbmciKQogICAgICAgIH0KICAgIH0KICAgIG1pbmd3WDY0KCJ3aW5kb3dzIikK</text>
