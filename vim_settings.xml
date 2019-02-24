@@ -67,11 +67,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1550688769892">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
+      <file name="$USER_HOME$/Source/pardom/oolong/settings.gradle.kts" timestamp="1551035228428">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong-swing/gradle.properties" timestamp="1550506185551">
         <mark key="[" line="1" column="15" />
@@ -120,7 +120,6 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.21/d6b68351334b321aed15db2b75969b7b922c7c6e/kotlin-gradle-plugin-api-1.3.21-sources.jar!/org/jetbrains/kotlin/gradle/plugin/KotlinSourceSet.kt" timestamp="1550803054693" />
       <file name="$USER_HOME$/Source/pardom/oolong/oolong-android/src/main/kotlin/oolong/android/Platform.kt" timestamp="1550506699723">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="30" />
@@ -181,11 +180,11 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/build.gradle.kts" timestamp="1550690016260">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="42" />
-        <mark key="^" line="27" column="42" />
-        <mark key="." line="27" column="42" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/android/build.gradle.kts" timestamp="1551035622669">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/internal/RuntimeContext.kt" timestamp="1549943083852">
         <mark key="[" line="8" column="75" />
@@ -199,11 +198,11 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1550763308941">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="60" />
-        <mark key="." line="7" column="60" />
-        <mark key="^" line="7" column="60" />
+      <file name="$USER_HOME$/Source/pardom/oolong/build.gradle.kts" timestamp="1551035501051">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/js/build.gradle.kts" timestamp="1550677606831">
         <mark key="[" line="16" column="0" />
@@ -319,13 +318,12 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.21/3c999f173a5a5eaf4e1bccea848eff32c7272898/kotlin-gradle-plugin-1.3.21-sources.jar!/org/jetbrains/kotlin/gradle/plugin/mpp/kotlinTargetPresets.kt" timestamp="1550802854461" />
-      <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependencies.kt" timestamp="1550763513354">
-        <mark key="'" line="69" column="43" />
-        <mark key="[" line="77" column="32" />
-        <mark key="]" line="77" column="44" />
-        <mark key="." line="77" column="44" />
-        <mark key="^" line="77" column="44" />
+      <file name="$USER_HOME$/Source/pardom/oolong/buildSrc/src/main/kotlin/oolong/Dependencies.kt" timestamp="1551035469928">
+        <mark key="'" line="75" column="43" />
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/core/src/main/kotlin/counter/Counter.kt" timestamp="1550671896504">
         <mark key="[" line="33" column="38" />
@@ -352,8 +350,6 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.21/3c999f173a5a5eaf4e1bccea848eff32c7272898/kotlin-gradle-plugin-1.3.21-sources.jar!/org/jetbrains/kotlin/gradle/dsl/KotlinMultiplatformExtension.kt" timestamp="1550801493294" />
-      <file name="$USER_HOME$/.gradle/caches/5.2.1/gradle-kotlin-dsl-accessors/7827rwsit553tbus8jetigmyu/cache/classes/org/gradle/kotlin/dsl/Accessors4nhp6c7gizz3uim4k13ftxn74Kt.class" timestamp="1550803004619" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Timer.java" timestamp="1550520858077">
         <mark key="[" line="472" column="1" />
         <mark key="]" line="472" column="0" />
@@ -465,49 +461,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyID0gImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>7</text>
       </register>
-      <register name="0" type="4">
-        <text>.withType().forEach {
-                it.defaultSourceSet {
-                    dependencies {
-                        implementation(Dependencies.Kotlin.Coroutines.Core.Native)
-                    }
-                }
-            }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBvYmplY3QgR3JhZGxlIDogR3JvdXAodGhpcykgewogICAgICAgICAgICBvYmplY3QgUGx1Z2luIDogR3JvdXAodGhpcykgewogICAgICAgICAgICAgICAgb3ZlcnJpZGUgdmFsIERFRkFVTFQgPSBEZXBlbmRlbmN5KHRoaXMsICJkb2trYS1ncmFkbGUtcGx1Z2luIikKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyID0gImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuZGVmYXVsdFNvdXJjZVNldCB7Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewogICAgICAgIGdldEJ5TmFtZSgicmVsZWFzZSIpIHsKICAgICAgICAgICAgaXNNaW5pZnlFbmFibGVkID0gZmFsc2UKICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyhnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCJwcm9ndWFyZC1hbmRyb2lkLnR4dCIpLCAicHJvZ3VhcmQtcnVsZXMucHJvIikKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGlsYXRpb25zLndpdGhUeXBlKCkuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICBpdC5kZWZhdWx0U291cmNlU2V0IHsKICAgICAgICAgICAgICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbihEZXBlbmRlbmNpZXMuS290bGluLkNvcm91dGluZXMuQ29yZS5OYXRpdmUpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0IFBsdWdpbiA6IEdyb3VwKEdyYWRsZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKGl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmRlZmF1bHRTb3VyY2VTZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0IFBsdWdpbiA6IEdyb3VwKHRoaXMpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaXQuZGVmYXVsdFNvdXJjZVNldC5kZXBlbmRlbmNpZXMgewovLyAgICAgICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24oRGVwZW5kZW5jaWVzLktvdGxpbi5Db3JvdXRpbmVzLkNvcmUuTmF0aXZlKQovLyAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0IFBsdWdpbiA6IEdyb3VwKHRoaXMpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS5kc2wuS290bGluSnZtQ29tcGlsZQo=</text>
       </register>
     </registers>
     <search>
