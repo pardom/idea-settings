@@ -27,10 +27,10 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/javafx/build.gradle.kts" timestamp="1551105728632">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/javafx/build.gradle.kts" timestamp="1551106135282">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong-javafx/src/main/kotlin/oolong/javafx/Oolong.kt" timestamp="1550505680273">
         <mark key="[" line="23" column="8" />
@@ -243,11 +243,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" timestamp="1550683418258">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="30" column="65" />
-        <mark key="^" line="30" column="65" />
-        <mark key="." line="30" column="65" />
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/time/core/build.gradle.kts" timestamp="1551106099571">
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="53" />
+        <mark key="." line="21" column="53" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/oolong/src/main/kotlin/oolong/platform/Effect.kt" timestamp="1550503980955">
         <mark key="[" line="6" column="4" />
@@ -334,6 +334,12 @@
         <mark key="]" line="29" column="3" />
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/Source/pardom/oolong/samples/counter/javafx/build.gradle.kts" timestamp="1551106198851">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="^" line="19" column="51" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/Source/pardom/oolong/samples/time/js/index.html" timestamp="1550685029946">
         <mark key="[" line="4" column="11" />
@@ -455,13 +461,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwganNUZXN0IGJ5IGdldHRpbmcgewogICAgICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24oRGVwZW5kZW5jaWVzLktvdGxpbi5UZXN0LkpTKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKHByb2plY3QoIjpvb2xvbmctamF2YWZ4IikpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
